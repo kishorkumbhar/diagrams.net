@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T06:33:15.107Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bL3pEqgVSnnIA1R37Kmp" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:34:48.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KIR7ZkJMGSS3CuQdvv52" version="20.8.16" type="github">
   <diagram name="Page-1" id="i74f3Jm76ZfGsLWUmC-d">
-    <mxGraphModel dx="1848" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3205" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,10 +703,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oRg4LOAhas9VHzEoTHZU-7" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
-          <mxGeometry x="949.84" y="957.86" width="42.14" height="42.14" as="geometry" />
+          <mxGeometry x="940.84" y="958.86" width="42.14" height="42.14" as="geometry" />
         </mxCell>
         <mxCell id="oRg4LOAhas9VHzEoTHZU-8" value="&lt;b&gt;Aurora RDS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="933.0000000000001" y="1003.72" width="78" height="21" as="geometry" />
+          <mxGeometry x="925.0000000000001" y="1002.72" width="78" height="21" as="geometry" />
         </mxCell>
         <mxCell id="oRg4LOAhas9VHzEoTHZU-9" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;fontSize=11;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="761.49" y="177.99999999999994" width="80" height="92" as="geometry" />
@@ -733,6 +733,16 @@
               <mxPoint x="802" y="110" />
             </Array>
             <mxPoint x="580" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRg4LOAhas9VHzEoTHZU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="959.5100000000007" y="761" as="sourcePoint" />
+            <mxPoint x="959.21" y="955.7200000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="959.51" y="827" />
+              <mxPoint x="959.51" y="827" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
